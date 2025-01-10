@@ -7,7 +7,8 @@ During the free time, as a hobby I am working on music production in FL Studio. 
 
 ## My Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerMu147&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=BerMu147&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerMu147&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 ## Stack
 <div>
