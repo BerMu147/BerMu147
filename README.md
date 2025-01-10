@@ -1,11 +1,11 @@
-👋 Hi, My name is Berin Mujcinovic
+Berin Mujcinovic
 
-I am 26 years old Software Developer & DevOps Engineer. Currently living in Mostar, Bosnia and Herzegovina.
+I am 27 years old Software Developer & DevOps Engineer. Currently living in Mostar, Bosnia and Herzegovina.
 I'm investing my time in DevOps operations because it's the most interesting branch for me and I am ready to accept and work on unexpected challenges.
 
-In my free time, as a hobby I am working on music production in FL Studio. You can check my work on my personal [Soundcloud](https://soundcloud.com/berin-muj-inovi) profile
+During the free time, as a hobby I am working on music production in FL Studio. You can check my work on my personal [Soundcloud](https://soundcloud.com/berin-muj-inovi) profile
 
-### My Status
+## My Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerMu147&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,6 +22,7 @@ In my free time, as a hobby I am working on music production in FL Studio. You c
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <!---
