@@ -1,6 +1,6 @@
 Berin Mujcinovic
 
-I am 27 years old Software Developer & DevOps Engineer. Currently living in Mostar, Bosnia and Herzegovina.
+Software Developer & DevOps Engineer. Currently living in Mostar, Bosnia and Herzegovina.
 I'm investing my time in DevOps operations because it's the most interesting branch for me and I am ready to accept and work on unexpected challenges.
 
 During the free time, as a hobby I am working on music production in FL Studio. You can check my work on my personal [Soundcloud](https://soundcloud.com/berin-muj-inovi) profile
