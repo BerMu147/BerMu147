@@ -5,11 +5,6 @@ I'm investing my time in DevOps operations because it's the most interesting bra
 
 During the free time, as a hobby I am working on music production in FL Studio. You can check my work on my personal [Soundcloud](https://soundcloud.com/berin-muj-inovi) profile
 
-## My Status
-
-![Stats](https://github-readme-stats.vercel.app/api?username=BerMu147&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerMu147&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <br>
-
 ## Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
