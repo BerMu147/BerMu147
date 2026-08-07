@@ -18,7 +18,6 @@ During the free time, as a hobby I am working on music production in FL Studio. 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/webflow-plain-wordmark.svg" title="Webflow" alt="Webflow" width="50" height="50"/>&nbsp;
 </div>
 <!---
 BerMu147/BerMu147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
